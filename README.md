@@ -1,4 +1,4 @@
-# Reactjs_Custom_giphyserach
+# DEMO
 Gives various gifs results according to input(search)
 
 
